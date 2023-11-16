@@ -1,12 +1,14 @@
 ### Hi there 👋
-* 🐾 My name is Kim Gyeong Han ( Kim is last name )
-* 💻 I'm currently working on ...
+
 
 <table border='0'>
 
   <tbody>
     <td width="300px">이미지</td>
-    <td width="500px">설명</td>
+    <td width="500px">
+* 🐾 My name is Kim Gyeong Han ( Kim is last name )
+* 💻 I'm currently working on ...
+</td>
   </tbody>
 </table>
 
