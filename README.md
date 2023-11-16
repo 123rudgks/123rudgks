@@ -2,7 +2,7 @@
 * 🐾 My name is Kim Gyeong Han ( Kim is last name )
 * 💻 I'm currently working on ...
 
-<table>
+<table border='0'>
 
   <tbody>
     <td width="300px">이미지</td>
