@@ -3,28 +3,31 @@
 * 💻 I'm currently working on ...
 
 <table border="0" id="home" width="500px" cellpadding="0" cellspacing="0" bgcolor="#292929">
-  <tbody><tr>
-  	 <td>
-  	 	<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
-           <tbody><tr>
+  <tbody>
+    <tr>
+      <td>
+        <table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
+          <tbody>
+            <tr>
            	   <td align="center" valign="middle" height="300">
            	   	 <h3>
-           	   	 	<marquee behavior="alternate" direction="left" scrollamount="2">
-           	   	 	<font face="arial" color="#ffffff" size="6">
+                   <marquee behavior="alternate" direction="left" scrollamount="2">
+                     <font face="arial" color="#ffffff" size="6">
            	   	     Hi, I'm Sarita Sharma
            	   	    </font>
            	   	   </marquee>
-           	   	</h3>
+                 </h3>
            	   	 <h1>
            	   	 	<marquee behavior="alternate" direction="right" scrollamount="2">
-           	   	 	<font face="arial" color="#f3971b" size="7">
+                    <font face="arial" color="#f3971b" size="7">
            	   	      Frontend Developer
            	   	    </font>
            	   	</marquee>
            	   	</h1>
-           	   </td>
+               </td>
            </tr>
-        </tbody></table>
+        </tbody>
+        </table>
       </td>
     </tr>
  </tbody></table>
