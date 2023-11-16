@@ -2,7 +2,7 @@
 * 🐾 My name is Kim Gyeong Han ( Kim is last name )
 * 💻 I'm currently working on ...
 
-<table border="0" id="home" width="100%" cellpadding="0" cellspacing="0" bgcolor="#292929">
+<table border="0" id="home" width="500px" cellpadding="0" cellspacing="0" bgcolor="#292929">
   <tbody><tr>
   	 <td>
   	 	<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
@@ -28,7 +28,7 @@
       </td>
     </tr>
  </tbody></table>
- <table border="0" id="about" width="100%" cellpadding="0" cellspacing="0" bgcolor="#353535">
+ <table border="0" id="about" width="500px" cellpadding="0" cellspacing="0" bgcolor="#353535">
   <tbody><tr>
   	 <td>
   	 	<table border="0" width="85%" cellpadding="15" cellspacing="0" align="center">
