@@ -3,7 +3,7 @@
 * 💻 I'm currently working on ...
 
 <div>
-  <h1>Hi</h1>
+  <h1 style="color=#245123">Hi</h1>
 </div>
 <!--
 **123rudgks/123rudgks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
