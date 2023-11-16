@@ -1,4 +1,6 @@
 ### Hi there 👋
+* 🐾 My name is Kim Gyeong Han ( Kim is last name )
+* 💻 I'm currently working on ...
 
 <!--
 **123rudgks/123rudgks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
