@@ -5,7 +5,7 @@
 <table>
 
   <tbody>
-    <td width="10px">이미지</td>
+    <td width="100px">이미지</td>
     <td>설명</td>
   </tbody>
 </table>
